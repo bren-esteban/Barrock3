@@ -65,7 +65,7 @@ nav>a:hover {
 
 .header {
     height: 60vh !important;
-    background: url(image/imagenbarrock.jpg) no-repeat center;
+    background: url(../image/foto-portada-background.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -301,7 +301,7 @@ p {
 }
 
 .price {
-    background: url(image/imagenbarrock.jpg) no-repeat center;
+    background: url(../image/foto-portada-background.jpg) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     text-align: cover;
